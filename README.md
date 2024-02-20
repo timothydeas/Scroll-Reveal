@@ -1,2 +1,2 @@
-# boilerplate
-Basic HTML and CSS setup for simple web design
+# Image Scroll Reveal 
+Basic HTML and CSS for simple web design demonstrating the use of Scroll-Reveal feature.
