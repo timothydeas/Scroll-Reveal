@@ -1,5 +1,5 @@
 window.onload = function() {
-    ScrollReveal().reveal('.header', {delay: 200});
+    ScrollReveal().reveal('.header', {duration: 400});
     ScrollReveal().reveal('.imgOne', {delay: 800});
     ScrollReveal().reveal('.imgTwo', {delay: 1200});
     ScrollReveal().reveal('.imgThree', {delay: 1500});
