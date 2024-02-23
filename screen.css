@@ -1,12 +1,13 @@
 /* Add screen styles below */
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;900&display=swap');
 
-
+html.sr .load-hidden {
+    visibility: hidden;
+  }
+  
 h1 {
-    
     margin: 30px 390px 0 0;
     font-family: 'Inter', sans-serif;
-    
 }
 
 #divCentering {
