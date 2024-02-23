@@ -1,8 +1,8 @@
 window.onload = function() {
-    ScrollReveal().reveal('.header', {duration: 300});
+    ScrollReveal().reveal('.header', {duration: 200});
 
     //reveal instances & options for the images:
-    ScrollReveal().reveal('#imgOne', {duration: 800});
+    ScrollReveal().reveal('#imgOne', {duration: 2000});
     ScrollReveal().reveal('#imgTwo', {scale: 0.25});
     ScrollReveal().reveal('#imgThree', {rotate: {x: 20, z: 20}});
     ScrollReveal().reveal('#imgFour', {distance: '50px', opacity: 0.1});
