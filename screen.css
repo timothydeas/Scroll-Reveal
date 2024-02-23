@@ -3,7 +3,7 @@
 
 
 h1 {
-    margin: 30px 365px 0 0;
+    margin: 30px 395px 0 0;
     font-family: 'Inter', sans-serif;
     display: flex;
     justify-content: center;
@@ -24,7 +24,7 @@ html.sr .header {
 }
 
 .space {
-  margin: .5rem;
+  margin-top: 10px;
   border-radius: 5px;
 }
 
