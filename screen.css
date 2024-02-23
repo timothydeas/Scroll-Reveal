@@ -31,6 +31,10 @@ img {
     max-height: 500px;
 }
 
+.imgThree {
+  perspective: 800px;
+}
+
 /* html.sr .imgOne {
     visibility: hidden;
   }
