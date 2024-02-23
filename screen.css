@@ -21,6 +21,6 @@ img {
     max-height: 500px;
 }
 
-html.sr .img {
+html.sr .imgOne {
     visibility: hidden;
   }
