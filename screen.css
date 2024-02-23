@@ -24,8 +24,8 @@ html.sr .header {
 }
 
 .space {
-  margin-top: 10px;
-  border-radius: 5px;
+  margin-top: 15px;
+  
 }
 
 html.sr #listCentering {
@@ -37,6 +37,7 @@ img {
     width: auto; 
     max-width: 500px; 
     max-height: 500px;
+    border-radius: 10px;
 }
 
 #imgThree {
