@@ -16,8 +16,13 @@ html.sr .header {
 #divCentering {
     margin: 10px auto;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    list-style: none;
+    /* margin: 0;
+    padding: 0; */
+    border-radius: 1px;
 }
 
 html.sr #divCentering {
