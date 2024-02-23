@@ -5,14 +5,13 @@
 h1 {
     margin: 30px 390px 0 0;
     font-family: 'Inter', sans-serif;
-
     display: flex;
     justify-content: center;
 }
 
-/* html.sr #header {
+html.sr .header {
     visibility: hidden;
-  }  */
+  } 
 
 #divCentering {
     margin: 10px auto;
