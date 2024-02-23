@@ -24,3 +24,19 @@ img {
 html.sr .imgOne {
     visibility: hidden;
   }
+
+  html.sr .imgTwo {
+    visibility: hidden;
+  }
+
+  html.sr .imgThree {
+    visibility: hidden;
+  }
+
+  html.sr .imgFour {
+    visibility: hidden;
+  }
+
+  html.sr .imgFive {
+    visibility: hidden;
+  }
