@@ -10,9 +10,9 @@ h1 {
     justify-content: center;
 }
 
-html.sr #header {
+/* html.sr #header {
     visibility: hidden;
-  } 
+  }  */
 
 #divCentering {
     margin: 10px auto;
